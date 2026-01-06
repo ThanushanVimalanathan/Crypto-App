@@ -9,7 +9,9 @@
 }
 
 .navbar .logo{
-    width: max(12vw ,120px);
+    width: max(4vw ,30px);
+    mix-blend-mode: color-dodge;
+    cursor: pointer;
 }
 
 .navbar ul{
